@@ -1,0 +1,91 @@
+This is not the output for the sample input given.
+
+The sample input was taking lots of time to give output. Hence we used a small xml file to verify the logic.
+
+
+XML
+***
+
+<A>
+<B><E><F></F></E></B>
+<B><E><F></F></E><D></D></B>
+<B></B>
+</A>
+
+
+Query Plans
+***********
+1) query.txt 
+6
+A
+B
+C
+D
+E
+F
+1 2 PC
+2 6 AD
+
+
+2) query1.txt
+6
+A
+B
+C
+D
+E
+F
+1 2 PC
+2 5 PC
+5 6 PC
+
+Output
+******
+
+
+Number of page accessed before read= 5
+Enter input filename for query
+/home/eldo/Documents/CSE510Candan/Project/query.txt
+QUERY PLAN---1
+PCADResult 1:
+[A, [1 18], B, [2 7], F, [4  5]]
+Result 2:
+[A, [1 18], B, [8 15], F, [10  11]]
+Number of page accessed = 0
+QUERY PLAN---2
+Result 1:
+[A, [1 18], B, [2 7], F, [4  5]]
+Result 2:
+[A, [1 18], B, [8 15], F, [10  11]]
+Number of page accessed = 0
+QUERY PLAN---3
+Result 1:
+[A, [1 18], B, [2 7], F, [4  5]]
+Result 2:
+[A, [1 18], B, [8 15], F, [10  11]]
+Number of page accessed = 0
+Press N to stop
+y
+yEnter input filename for query
+/home/eldo/Documents/CSE510Candan/Project/query1.txt
+QUERY PLAN---1
+PCPCPCResult 1:
+[A, [1 18], B, [2 7], E, [3 6], F, [4  5]]
+Result 2:
+[A, [1 18], B, [8 15], E, [9 12], F, [10  11]]
+Number of page accessed = 0
+QUERY PLAN---2
+Result 1:
+[A, [1 18], B, [2 7], E, [3 6], F, [4  5]]
+Result 2:
+[A, [1 18], B, [8 15], E, [9 12], F, [10  11]]
+Number of page accessed = 0
+QUERY PLAN---3
+Result 1:
+[A, [1 18], B, [2 7], E, [3 6], F, [4  5]]
+Result 2:
+[A, [1 18], B, [8 15], E, [9 12], F, [10  11]]
+Number of page accessed = 14
+Press N to stop
+
+
