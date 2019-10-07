@@ -1,0 +1,33 @@
+4
+root
+Entry
+Org
+*
+1 2 PC
+2 3 PC
+3 4 PC
+Complex Query : NJ 4 4 
+
+Result in NJ : 1
+mroot
+    root[1,1818]
+        Entry[2,395]
+         Org[81,84]
+          Chord[82,83]
+    root[1,1818]
+        Entry[2,395]
+         Org[81,84]
+          Chord[82,83]
+
+
+
+Result in NJ : 2
+mroot
+    root[1,1818]
+        Entry[1420,1817]
+         Org[1499,1502]
+          Chord[1500,1501]
+    root[1,1818]
+        Entry[1420,1817]
+         Org[1499,1502]
+          Chord[1500,1501]

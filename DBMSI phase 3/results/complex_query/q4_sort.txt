@@ -1,0 +1,520 @@
+4
+root
+Entry
+Org
+*
+1 2 PC
+2 3 PC
+3 4 PC
+Complex Query : SRT 4 
+
+Result in SRT : 1:
+parent_root
+    root[1,1818]
+        Entry[396,607]
+         Org[471,474]
+          Alveo[472,473]
+
+
+
+Result in SRT : 2:
+parent_root
+    root[1,1818]
+        Entry[1204,1419]
+         Org[1279,1282]
+          Alveo[1280,1281]
+
+
+
+Result in SRT : 3:
+parent_root
+    root[1,1818]
+        Entry[396,607]
+         Org[475,478]
+          Apico[476,477]
+
+
+
+Result in SRT : 4:
+parent_root
+    root[1,1818]
+        Entry[1204,1419]
+         Org[1283,1286]
+          Apico[1284,1285]
+
+
+
+Result in SRT : 5:
+parent_root
+    root[1,1818]
+        Entry[1420,1817]
+         Org[1515,1518]
+          Archo[1516,1517]
+
+
+
+Result in SRT : 6:
+parent_root
+    root[1,1818]
+        Entry[608,879]
+         Org[707,710]
+          Aster[708,709]
+
+
+
+Result in SRT : 7:
+parent_root
+    root[1,1818]
+        Entry[1420,1817]
+         Org[1519,1522]
+          Aves[1520,1521]
+
+
+
+Result in SRT : 8:
+parent_root
+    root[1,1818]
+        Entry[2,395]
+         Org[81,84]
+          Chord[82,83]
+
+
+
+Result in SRT : 9:
+parent_root
+    root[1,1818]
+        Entry[1420,1817]
+         Org[1499,1502]
+          Chord[1500,1501]
+
+
+
+Result in SRT : 10:
+parent_root
+    root[1,1818]
+        Entry[2,395]
+         Org[85,88]
+          Crani[86,87]
+
+
+
+Result in SRT : 11:
+parent_root
+    root[1,1818]
+        Entry[1420,1817]
+         Org[1503,1506]
+          Crani[1504,1505]
+
+
+
+Result in SRT : 12:
+parent_root
+    root[1,1818]
+        Entry[608,879]
+         Org[687,690]
+          Embry[688,689]
+
+
+
+Result in SRT : 13:
+parent_root
+    root[1,1818]
+        Entry[880,1203]
+         Org[959,962]
+          Embry[960,961]
+
+
+
+Result in SRT : 14:
+parent_root
+    root[1,1818]
+        Entry[2,395]
+         Org[73,76]
+          Eukar[74,75]
+
+
+
+Result in SRT : 15:
+parent_root
+    root[1,1818]
+        Entry[396,607]
+         Org[467,470]
+          Eukar[468,469]
+
+
+
+Result in SRT : 16:
+parent_root
+    root[1,1818]
+        Entry[608,879]
+         Org[679,682]
+          Eukar[680,681]
+
+
+
+Result in SRT : 17:
+parent_root
+    root[1,1818]
+        Entry[880,1203]
+         Org[951,954]
+          Eukar[952,953]
+
+
+
+Result in SRT : 18:
+parent_root
+    root[1,1818]
+        Entry[1204,1419]
+         Org[1275,1278]
+          Eukar[1276,1277]
+
+
+
+Result in SRT : 19:
+parent_root
+    root[1,1818]
+        Entry[1420,1817]
+         Org[1491,1494]
+          Eukar[1492,1493]
+
+
+
+Result in SRT : 20:
+parent_root
+    root[1,1818]
+        Entry[2,395]
+         Org[93,96]
+          Eutel[94,95]
+
+
+
+Result in SRT : 21:
+parent_root
+    root[1,1818]
+        Entry[1420,1817]
+         Org[1511,1514]
+          Eutel[1512,1513]
+
+
+
+Result in SRT : 22:
+parent_root
+    root[1,1818]
+        Entry[2,395]
+         Org[101,104]
+          Euthe[102,103]
+
+
+
+Result in SRT : 23:
+parent_root
+    root[1,1818]
+        Entry[880,1203]
+         Org[991,994]
+          Fabac[992,993]
+
+
+
+Result in SRT : 24:
+parent_root
+    root[1,1818]
+        Entry[880,1203]
+         Org[987,990]
+          Fabal[988,989]
+
+
+
+Result in SRT : 25:
+parent_root
+    root[1,1818]
+        Entry[1204,1419]
+         Org[1287,1290]
+          Haemo[1288,1289]
+
+
+
+Result in SRT : 26:
+parent_root
+    root[1,1818]
+        Entry[608,879]
+         Org[699,702]
+          Magno[700,701]
+
+
+
+Result in SRT : 27:
+parent_root
+    root[1,1818]
+        Entry[880,1203]
+         Org[971,974]
+          Magno[972,973]
+
+
+
+Result in SRT : 28:
+parent_root
+    root[1,1818]
+        Entry[2,395]
+         Org[97,100]
+          Mamma[98,99]
+
+
+
+Result in SRT : 29:
+parent_root
+    root[1,1818]
+        Entry[2,395]
+         Org[77,80]
+          Metaz[78,79]
+
+
+
+Result in SRT : 30:
+parent_root
+    root[1,1818]
+        Entry[1420,1817]
+         Org[1495,1498]
+          Metaz[1496,1497]
+
+
+
+Result in SRT : 31:
+parent_root
+    root[1,1818]
+        Entry[2,395]
+         Org[113,116]
+          Murid[114,115]
+
+
+
+Result in SRT : 32:
+parent_root
+    root[1,1818]
+        Entry[2,395]
+         Org[117,120]
+          Murin[118,119]
+
+
+
+Result in SRT : 33:
+parent_root
+    root[1,1818]
+        Entry[1420,1817]
+         Org[1523,1526]
+          Palae[1524,1525]
+
+
+
+Result in SRT : 34:
+parent_root
+    root[1,1818]
+        Entry[880,1203]
+         Org[995,998]
+          Papil[996,997]
+
+
+
+Result in SRT : 35:
+parent_root
+    root[1,1818]
+        Entry[396,607]
+         Org[479,482]
+          Pirop[480,481]
+
+
+
+Result in SRT : 36:
+parent_root
+    root[1,1818]
+        Entry[1204,1419]
+         Org[1291,1294]
+          Plasm[1292,1293]
+
+
+
+Result in SRT : 37:
+parent_root
+    root[1,1818]
+        Entry[2,395]
+         Org[121,124]
+          Rattu[122,123]
+
+
+
+Result in SRT : 38:
+parent_root
+    root[1,1818]
+        Entry[2,395]
+         Org[105,108]
+          Roden[106,107]
+
+
+
+Result in SRT : 39:
+parent_root
+    root[1,1818]
+        Entry[880,1203]
+         Org[979,982]
+          Rosid[980,981]
+
+
+
+Result in SRT : 40:
+parent_root
+    root[1,1818]
+        Entry[2,395]
+         Org[109,112]
+          Sciur[110,111]
+
+
+
+Result in SRT : 41:
+parent_root
+    root[1,1818]
+        Entry[608,879]
+         Org[715,718]
+          Solan[716,717]
+
+
+
+Result in SRT : 42:
+parent_root
+    root[1,1818]
+        Entry[608,879]
+         Org[719,722]
+          Solan[720,721]
+
+
+
+Result in SRT : 43:
+parent_root
+    root[1,1818]
+        Entry[608,879]
+         Org[723,726]
+          Solan[724,725]
+
+
+
+Result in SRT : 44:
+parent_root
+    root[1,1818]
+        Entry[608,879]
+         Org[695,698]
+          Sperm[696,697]
+
+
+
+Result in SRT : 45:
+parent_root
+    root[1,1818]
+        Entry[880,1203]
+         Org[967,970]
+          Sperm[968,969]
+
+
+
+Result in SRT : 46:
+parent_root
+    root[1,1818]
+        Entry[1420,1817]
+         Org[1527,1530]
+          Strut[1528,1529]
+
+
+
+Result in SRT : 47:
+parent_root
+    root[1,1818]
+        Entry[1420,1817]
+         Org[1531,1534]
+          Strut[1532,1533]
+
+
+
+Result in SRT : 48:
+parent_root
+    root[1,1818]
+        Entry[1420,1817]
+         Org[1535,1538]
+          Strut[1536,1537]
+
+
+
+Result in SRT : 49:
+parent_root
+    root[1,1818]
+        Entry[396,607]
+         Org[483,486]
+          Theil[484,485]
+
+
+
+Result in SRT : 50:
+parent_root
+    root[1,1818]
+        Entry[396,607]
+         Org[487,490]
+          Theil[488,489]
+
+
+
+Result in SRT : 51:
+parent_root
+    root[1,1818]
+        Entry[608,879]
+         Org[691,694]
+          Trach[692,693]
+
+
+
+Result in SRT : 52:
+parent_root
+    root[1,1818]
+        Entry[880,1203]
+         Org[963,966]
+          Trach[964,965]
+
+
+
+Result in SRT : 53:
+parent_root
+    root[1,1818]
+        Entry[2,395]
+         Org[89,92]
+          Verte[90,91]
+
+
+
+Result in SRT : 54:
+parent_root
+    root[1,1818]
+        Entry[1420,1817]
+         Org[1507,1510]
+          Verte[1508,1509]
+
+
+
+Result in SRT : 55:
+parent_root
+    root[1,1818]
+        Entry[880,1203]
+         Org[999,1002]
+          Vigna[1000,1001]
+
+
+
+Result in SRT : 56:
+parent_root
+    root[1,1818]
+        Entry[608,879]
+         Org[683,686]
+          Virid[684,685]
+
+
+
+Result in SRT : 57:
+parent_root
+    root[1,1818]
+        Entry[880,1203]
+         Org[955,958]
+          Virid[956,957]

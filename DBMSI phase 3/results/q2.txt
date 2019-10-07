@@ -1,0 +1,201 @@
+ptree_1: pattern_tree2
+operation: SRT 4
+
+
+Result in SRT : 1:
+parent_root
+    root[1,376670]
+        Entry[128240,128839]
+         Org[128363,128366]
+          Acant[128364,128365]
+
+
+
+Result in SRT : 2:
+parent_root
+    root[1,376670]
+        Entry[302984,303211]
+         Org[303059,303062]
+          Acant[303060,303061]
+
+
+
+Result in SRT : 3:
+parent_root
+    root[1,376670]
+        Entry[310874,311245]
+         Org[310997,311000]
+          Acant[310998,310999]
+
+
+
+Result in SRT : 4:
+parent_root
+    root[1,376670]
+        Entry[128240,128839]
+         Org[128375,128378]
+          Acant[128376,128377]
+
+
+
+Result in SRT : 5:
+parent_root
+    root[1,376670]
+        Entry[302984,303211]
+         Org[303063,303066]
+          Acant[303064,303065]
+
+
+
+Result in SRT : 6:
+parent_root
+    root[1,376670]
+        Entry[310874,311245]
+         Org[311009,311012]
+          Acant[311010,311011]
+
+
+
+Result in SRT : 7:
+parent_root
+    root[1,376670]
+        Entry[303392,303677]
+         Org[303467,303470]
+          Acant[303468,303469]
+
+
+
+Result in SRT : 8:
+parent_root
+    root[1,376670]
+        Entry[311476,311763]
+         Org[311599,311602]
+          Acant[311600,311601]
+
+
+
+.
+.
+..
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+Result in SRT : 9622:
+parent_root
+    root[1,376670]
+        Entry[108504,108831]
+         Org[108591,108594]
+          gamma[108592,108593]
+
+
+
+Result in SRT : 9623:
+parent_root
+    root[1,376670]
+        Entry[319164,319403]
+         Org[319247,319250]
+          hypot[319248,319249]
+
+
+
+Result in SRT : 9624:
+parent_root
+    root[1,376670]
+        Entry[34856,35139]
+         Org[34935,34938]
+          ssRNA[34936,34937]
+
+
+
+Result in SRT : 9625:
+parent_root
+    root[1,376670]
+        Entry[30344,30521]
+         Org[30419,30422]
+          ssRNA[30420,30421]
+
+
+
+Result in SRT : 9626:
+parent_root
+    root[1,376670]
+        Entry[314102,314345]
+         Org[314177,314180]
+          stram[314178,314179]
+
+
+
+Result in SRT : 9627:
+parent_root
+    root[1,376670]
+        Entry[7230,7423]
+         Org[7305,7308]
+          stram[7306,7307]
+
+
+
+Result in SRT : 9628:
+parent_root
+    root[1,376670]
+        Entry[218558,218857]
+         Org[218641,218644]
+          stram[218642,218643]
+
+
+
+Result in SRT : 9629:
+parent_root
+    root[1,376670]
+        Entry[296298,296563]
+         Org[296381,296384]
+          stram[296382,296383]
+
+
+
+Result in SRT : 9630:
+parent_root
+    root[1,376670]
+        Entry[317078,317323]
+         Org[317153,317156]
+          stram[317154,317155]
+
+
+
+Result in SRT : 9631:
+parent_root
+    root[1,376670]
+        Entry[319404,319637]
+         Org[319479,319482]
+          stram[319480,319481]
+
+
+
+Result in SRT : 9632:
+parent_root
+    root[1,376670]
+        Entry[319638,319867]
+         Org[319713,319716]
+          stram[319714,319715]
+
+
+
+Result in SRT : 9633:
+parent_root
+    root[1,376670]
+        Entry[322384,322619]
+         Org[322459,322462]
+          stram[322460,322461]
+
